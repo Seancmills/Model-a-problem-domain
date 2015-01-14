@@ -10,4 +10,4 @@ Problem Statement
   If the Employee does not have Clothes in stock or the Customer does not have Money, the Customer will not be able to purchase a T-shirt.
 
 
-  
+  ![A picture of Model](IMG_8012.JPG)
